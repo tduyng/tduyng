@@ -4,7 +4,7 @@
 Hi, I'am Duy - an BIM Engineer (Buiding Information Modeling - Construction Engineer) at VINCI Group in France. I'm always eager to learn new things and solve problems. In my BIM engineering job, I have had the chance to use VBA and C# to develop the applications for my company and I have found my real passion for programming. So, in 2020, I decided to move on and move in the IT development to follow my dream.
 
 - 🔭 I’m currently working on Ruby on Rails, NodeJS, ReactJS, JS, Algorithms & Data Structures
-- 🌱 I’m currently learning Golang, TypeScript, Microservices, Docker, Design Pattern
+- 🌱 I’m currently learning Golang, TypeScript, VueJS, Microservices, Docker, Design Pattern
 - 📫 How to reach me: tienduy.nguyen.dev@gmail.com
 
 ---
