@@ -7,15 +7,14 @@ Hi, I'am Duy.
 - 🌱 I’m currently learning Golang,Python,TypeScript, VueJS, Microservices, Docker, Design Pattern
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=dracula)](https://github.com/tienduy-nguyen/tienduy-nguyen)
-
 ![TienDuy's github stats](https://github-readme-stats.vercel.app/api?username=tienduy-nguyen&show_icons=true&theme=dracula)
+
 
 
 ---
 <!--
 **tienduy-nguyen/tienduy-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=dracula)](https://github.com/tienduy-nguyen/tienduy-nguyen)
 
 Here are some ideas to get you started:
 
