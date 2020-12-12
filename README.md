@@ -3,13 +3,12 @@
 
 Hi, I'am Duy.
 
-- 🔭 I’m currently working on Ruby on Rails, NodeJS, ReactJS, JS, Algorithms & Data Structures
-- 🌱 I’m currently learning Golang,Python,TypeScript, VueJS, Microservices, Docker, Design Pattern
+- 🔭 I’m currently working on Ruby on Rails, NodeJS, ReactJS, TypeScript, JS, Algorithms & Data Structures
+- 🌱 I’m currently learning Golang,Python, VueJS, Microservices, Docker, Design Pattern
 
 ---
-![TienDuy's github stats](https://github-readme-stats.vercel.app/api?username=tienduy-nguyen&show_icons=true&theme=dracula)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=dracula&count_private=true)
+![TienDuy's github stats](https://github-readme-stats.vercel.app/api?username=tienduy-nguyen&show_icons=true&count_private=true&line_height=40&theme=dracula)
 
 ---
 <!--
