@@ -7,13 +7,16 @@ Hi, I'am Duy.
 - 🌱 I’m currently learning Golang,Python, VueJS, Microservices, Docker, Design Pattern
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=dracula&count_private=true&langs_count=12&hide=html,css,scss,TSQL,VBA)
+
+
 ![TienDuy's github stats](https://github-readme-stats.vercel.app/api?username=tienduy-nguyen&show_icons=true&count_private=true&line_height=40&theme=dracula)
 
 ---
 <!--
 **tienduy-nguyen/tienduy-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=dracula)](https://github.com/tienduy-nguyen/tienduy-nguyen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=dracula&count_private=true)
 
 Here are some ideas to get you started:
 
