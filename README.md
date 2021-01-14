@@ -1,7 +1,7 @@
 ### Tien Duy NGUYEN - @tienduy-nguyen
 ---
 
-Hi, I'am Duy.
+Hi, I'm Duy.
 
 - 🔭 I’m currently working on Ruby on Rails, NodeJs/NestJs, ReactJS, TypeScript/JavaScript
 - 🌱 I’m currently learning Python, Microservices, Docker, Design Pattern, TDD, Clean Structure
