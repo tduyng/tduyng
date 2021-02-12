@@ -3,8 +3,11 @@
 
 Hi, I'm Duy.
 
-- 🔭 I’m currently working on Ruby on Rails, NodeJs/NestJs, ReactJS, TypeScript/JavaScript
-- 🌱 I’m currently learning Python, Microservices, Docker, Design Pattern, TDD, Clean Structure
+Thanks for checking my profile!
+
+
+- 🔭 I’m currently working NodeJs/NestJs, ReactJS, TypeScript/JavaScript, Backend architecture
+- 🌱 I’m currently learning Microservices, Docker, Design Pattern, TDD, Clean Structure
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=dracula&count_private=true&langs_count=12&hide=html,css,scss,TSQL,VBA)
