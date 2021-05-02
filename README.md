@@ -10,7 +10,7 @@ Thanks for checking my profile!
 - 🌱 I’m currently learning Microservices, Docker, Design Pattern, TDD, Clean Structure
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=gruvbox&count_private=true&langs_count=12&hide=html,css,scss,TSQL,VBA)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=gruvbox&langs_count=5&hide=html,css,scss,TSQL,VBA)
 ![TienDuy's github stats](https://github-readme-stats.vercel.app/api?username=tienduy-nguyen&show_icons=true&count_private=true&line_height=40&theme=gruvbox)
 
 ---
