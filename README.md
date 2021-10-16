@@ -6,8 +6,8 @@ Hi, I'm Duy.
 Thanks for checking my profile!
 
 
-- 🔭 I’m currently working NodeJs/NestJs, ReactJS, TypeScript/JavaScript, Backend architecture
-- 🌱 I’m currently learning Microservices, Docker, Design Pattern, TDD, Clean Structure
+- 🔭 I’m currently working NodeJS/TypeScript, Backend architecture, CI-CD, TDD, BDD
+- 🌱 I’m currently learning Devops, Rust
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienduy-nguyen&theme=gruvbox&langs_count=5&hide=html,css,scss,TSQL,VBA)
