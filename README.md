@@ -1,4 +1,4 @@
-### Tien Duy NGUYEN - @tienduy-nguyen
+### Duy - @tienduy-nguyen
 ---
 
 Hi, I'm Duy.
@@ -6,8 +6,8 @@ Hi, I'm Duy.
 Thanks for checking my profile!
 
 
-- 🔭 I’m currently working NodeJS/TypeScript, Backend architecture, Docker, CI-CD, TDD, BDD
-- 🌱 I’m currently learning Devops, Rust, AWS
+- 🔭 I’m currently working NodeJS/TypeScript, Backend architecture, Docker, CI-CD, TDD, AWS
+- 🌱 I’m currently learning Devops, Rust
 
 ---
 <div style="text-align:center" >
