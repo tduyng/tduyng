@@ -1,8 +1,12 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches:
+      - master
+      
 jobs:
   metrics:
     runs-on: ubuntu-latest
