@@ -15,6 +15,7 @@ jobs:
         with:
           user_id: ${{ secrets.DEVCARD_ID }}
           type: "wide"
+          r: "l8q"
           commit_branch: master
           commit_message: "chore: update devcard.png"
           committer_name: "tduyng"
