@@ -1,6 +1,6 @@
 # @tduyng
 
-Software engineer at @Ekino France 👋
+Software engineer at @Ekino_France 👋
 
 ---
 
