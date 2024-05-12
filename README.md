@@ -4,9 +4,15 @@ Software engineer at @Ekino_France 👋
 
 ---
 
-![Metrics](./metrics.svg)
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="metrics.svg" alt="Metric" />
+</td>
+<td valign="top" width="50%">
 
 ## Latest blog posts
+
 <!-- blog start -->
 [New home for my website](https://tduyng.github.io/blog/new-home-for-my-website/) - 2024-05-11
 
@@ -20,3 +26,10 @@ Software engineer at @Ekino_France 👋
 <!-- blog end -->
 
 Read more on [tduyng.github.io](https://tduyng.github.io)
+
+</td>
+</tr></table>
+
+
+
+
