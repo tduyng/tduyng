@@ -7,7 +7,6 @@ import re
 from datetime import datetime
 
 DEFAULT_N = 5
-DEFAULT_SEPARATOR = "·"
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -50,18 +49,17 @@ def format_entry_date(entry: Any, date_format: str = DEFAULT_DATE_FORMAT) -> str
     if hasattr(entry, "published_parsed"):
         published_time = datetime(*entry.published_parsed[:6])
         return published_time.strftime(date_format)
-    return "No Date"
+    return ""
 
 
 def replace_chunk(content, marker, chunk, inline=False):
-    r = re.compile(
-        r"<!\-\- {} start \-\->.*<!\-\- {} end \-\->".format(marker, marker),
-        re.DOTALL,
-    )
+    pattern = f"<!-- {marker} start -->.*<!-- {marker} end -->"
+    r = re.compile(pattern, re.DOTALL)
+    
     if not inline:
-        chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} start -->{}<!-- {} end -->".format(marker, chunk, marker)
-    return r.sub(chunk, content)
+        chunk = f"\n{chunk}\n"
+        
+    return r.sub(f"<!-- {marker} start -->{chunk}<!-- {marker} end -->", content)
 
 
 if __name__ == "__main__":
