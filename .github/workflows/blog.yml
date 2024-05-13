@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 5 * * *" # 5:00 AM every day
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
       with:
-        python-version: '3.10'
+        python-version: '3.12'
     - uses: actions/cache@v4
       name: Configure pip caching
       with:
@@ -27,12 +27,11 @@ jobs:
     - name: Update README
       run: |-
         python feed.py
-        cat README.md
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "${{ secrets.USER_EMAIL }}"
-        git config --global user.name "${{ secrets.USER_NAME }}"
+        git config --global user.email "${{ vars.USER_EMAIL }}"
+        git config --global user.name "${{ vars.USER_NAME }}"
         git add -A
         git commit -m "chore: update blog posts" || exit 0
         git push
