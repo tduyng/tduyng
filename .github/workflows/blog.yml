@@ -11,22 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
+    - uses: oven-sh/setup-bun@v1
     - uses: actions/cache@v4
-      name: Configure pip caching
+      name: Configure bun caching
       with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-    - name: Install Python dependencies
-      run: |
-        python -m pip install -r requirements.txt
-    - name: Update README
-      run: |-
-        python feed.py
+          path: ~/.bun/install/cache
+          key: ${{ runner.os }}-${{ matrix.bun }}-bun-${{ hashFiles('**/bun.lockb') }}
+          restore-keys: |
+            ${{ runner.os }}-${{ matrix.bun }}-bun-
+    - run: bun install
+    - run: bun run readme
     - name: Commit and push if changed
       run: |-
         git diff

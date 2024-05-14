@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "readme": "bun src/feed.ts"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.2"
+  }
+}
