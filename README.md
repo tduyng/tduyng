@@ -25,7 +25,7 @@ Software engineer at @Ekino_France 👋
 [Start a new journey](https://tduyng.com/blog/start-a-new-journey/) - 2021-05-01
 <!-- blog end -->
 
-Read more on [tduyng.dev](https://tduyng.dev)
+Read more on [tduyng.github.io](https://tduyng.github.io)
 
 </td>
 </tr></table>
