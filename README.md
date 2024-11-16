@@ -14,7 +14,7 @@ Software engineer at @Ekino_France 👋
 ## Latest blog posts
 
 <!-- blog start -->
-[Support dual package for CJS and ESM in Typescript library](https://tduyng.com/blog/dual-package-typescript/) - 2024-11-13
+[Support dual package in npm - the easy way](https://tduyng.com/blog/dual-package-typescript/) - 2024-11-13
 
 [Essential tsconfig.json options you should use](https://tduyng.com/blog/tsconfig-options-you-should-use/) - 2024-11-11
 
