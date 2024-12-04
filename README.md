@@ -1,6 +1,6 @@
 # @tduyng
 
-Software engineer at @Ekino_France 👋
+Backend engineer at [Ekino](https://www.ekino.fr) France 👋
 
 ---
 
@@ -14,6 +14,7 @@ Software engineer at @Ekino_France 👋
 ## Latest blog posts
 
 <!-- blog start -->
+
 [Support dual package in npm - the easy way](https://tduyng.com/blog/dual-package-typescript/) - 2024-11-13
 
 [Essential tsconfig.json options you should use](https://tduyng.com/blog/tsconfig-options-you-should-use/) - 2024-11-11
@@ -23,13 +24,10 @@ Software engineer at @Ekino_France 👋
 [Why you might be using Enums in TypeScript wrong](https://tduyng.com/blog/enum-typescript/) - 2024-06-21
 
 [Should you switch to Deno?](https://tduyng.com/blog/switch-to-deno/) - 2024-06-15
+
 <!-- blog end -->
 
-Read more on [tduyng.github.io](https://tduyng.github.io)
+Read more on [tduyng.com](https://tduyng.com)
 
 </td>
 </tr></table>
-
-
-
-
