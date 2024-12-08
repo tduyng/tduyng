@@ -4,9 +4,10 @@ Backend engineer at [Ekino](https://www.ekino.fr) France 👋
 
 ---
 
-<img src="metrics.svg" alt="Metric" style="margin-top:20px;"/>
+## 📊 Github stats
+<img src="metrics.svg" alt="Metric"/>
 
-## Latest blog posts
+## 🌐 Latest blog posts
 
 <!-- blog start -->
 [Support dual package in npm - the easy way](https://tduyng.com/blog/dual-package-typescript/) - 2024-11-13
