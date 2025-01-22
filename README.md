@@ -10,15 +10,15 @@ Backend engineer at [Ekino](https://www.ekino.fr) France 👋
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
-[Support dual package in npm - the easy way](https://tduyng.com/blog/dual-package-typescript/) - 2024-11-13
+[[Microblog] First attempt at migrating from Homebrew to Nix with Nix Home Manager](https://tduyng.com/microblog/nix-home-manager/) - 2025-01-10
 
-[Essential tsconfig.json options you should use](https://tduyng.com/blog/tsconfig-options-you-should-use/) - 2024-11-11
+[[Microblog] Tilting window management on macOS with aerospace](https://tduyng.com/microblog/aerospace/) - 2025-01-08
 
-[Migrate to ESLint 9.x](https://tduyng.com/blog/migrating-to-eslint9x/) - 2024-07-16
+[[Microblog] Manage better for my dotfiles.](https://tduyng.com/microblog/stow-dotfiles/) - 2025-01-05
 
-[Why you might be using Enums in TypeScript wrong](https://tduyng.com/blog/enum-typescript/) - 2024-06-21
+[[Microblog] CLI tools I love using](https://tduyng.com/microblog/cli-tools/) - 2025-01-03
 
-[Should you switch to Deno?](https://tduyng.com/blog/switch-to-deno/) - 2024-06-15
+[[Microblog] Returning to Neovim for Coding](https://tduyng.com/microblog/neovim-coding/) - 2025-01-03
 <!-- blog end -->
 
 Read more on [tduyng.com](https://tduyng.com)
