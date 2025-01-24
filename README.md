@@ -10,15 +10,15 @@ Backend engineer at [Ekino](https://www.ekino.fr) France 👋
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
-[[Microblog] First attempt at migrating from Homebrew to Nix with Nix Home Manager](https://tduyng.com/microblog/nix-home-manager/) - 2025-01-10
+[[Microblog] Run a command if there are unstaged changes](https://tduyng.com/microblog/git-changes/) - 2025-01-17
 
-[[Microblog] Tilting window management on macOS with aerospace](https://tduyng.com/microblog/aerospace/) - 2025-01-08
+[[Microblog] List all files tracked by Git](https://tduyng.com/microblog/git-ls-files/) - 2025-01-16
 
-[[Microblog] Manage better for my dotfiles.](https://tduyng.com/microblog/stow-dotfiles/) - 2025-01-05
+[[Microblog] Git Checkout vs. Git Switch](https://tduyng.com/microblog/git-checkout-vs-switch/) - 2025-01-15
 
-[[Microblog] CLI tools I love using](https://tduyng.com/microblog/cli-tools/) - 2025-01-03
+[[Microblog] Git Reset vs. Git Restore](https://tduyng.com/microblog/git-reset-vs-restore/) - 2025-01-15
 
-[[Microblog] Returning to Neovim for Coding](https://tduyng.com/microblog/neovim-coding/) - 2025-01-03
+[[Microblog] Ingore all .DS_store files globally](https://tduyng.com/microblog/gitignore-globally/) - 2025-01-14
 <!-- blog end -->
 
 Read more on [tduyng.com](https://tduyng.com)
