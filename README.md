@@ -10,15 +10,15 @@ Backend engineer at [Ekino](https://www.ekino.fr) France 👋
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
-[[Microblog] Run a command if there are unstaged changes](https://tduyng.com/microblog/git-changes/) - 2025-01-17
+[[Microblog] Display colors in Makefile](https://tduyng.com/microblog/display-colors-makefile/) - 2025-01-23
 
-[[Microblog] List all files tracked by Git](https://tduyng.com/microblog/git-ls-files/) - 2025-01-16
+[[Microblog] Display all Makefile commands](https://tduyng.com/microblog/make-display-helper/) - 2025-01-22
 
-[[Microblog] Git Checkout vs. Git Switch](https://tduyng.com/microblog/git-checkout-vs-switch/) - 2025-01-15
+[[Microblog] Supercharge Git with fzf](https://tduyng.com/microblog/combine-git-fzf/) - 2025-01-21
 
-[[Microblog] Git Reset vs. Git Restore](https://tduyng.com/microblog/git-reset-vs-restore/) - 2025-01-15
+[[Microblog] Better Git log](https://tduyng.com/microblog/git-log-better/) - 2025-01-20
 
-[[Microblog] Ingore all .DS_store files globally](https://tduyng.com/microblog/gitignore-globally/) - 2025-01-14
+[[Microblog] Managing multiple Git accounts](https://tduyng.com/microblog/git-multiple-account/) - 2025-01-19
 <!-- blog end -->
 
 Read more on [tduyng.com](https://tduyng.com)
