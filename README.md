@@ -59,12 +59,12 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 
 ---
 
-### 📊 Stats
-
-<!-- ![tduyng's GitHub stats](https://github-readme-stats.vercel.app/api?username=tduyng&show_icons=true&theme=tokyonight) -->
-
-<img src="metrics.svg" alt="Metrics" />
-
 ### 👀 Let's Connect
 
 📧 [Email](mailto:hi@tduyng.com) | 🐦 [Twitter](https://twitter.com/tduyng) | 🔗 [Blog](https://tduyng.com)
+
+<!-- ### 📊 Stats -->
+
+<!-- ![tduyng's GitHub stats](https://github-readme-stats.vercel.app/api?username=tduyng&show_icons=true&theme=tokyonight) -->
+
+<!-- <img src="metrics.svg" alt="Metrics" /> -->
