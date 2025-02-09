@@ -4,34 +4,35 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
-    - uses: actions/cache@v4
-      name: Configure pip caching
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-    - name: Install Python dependencies
-      run: |
-        python -m pip install -r requirements.txt
-    - name: Update README
-      run: |-
-        python feed.py
-    - name: Commit and push if changed
-      run: |-
-        git diff
-        git config --global user.email "${{ vars.USER_EMAIL }}"
-        git config --global user.name "${{ vars.USER_NAME }}"
-        git add -A
-        git commit -m "chore: update blog posts" || exit 0
-        git push
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        name: Configure pip caching
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Python dependencies
+        run: |
+          python -m pip install -r requirements.txt
+      - name: Update README
+        run: |-
+          python feed.py
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "${{ vars.USER_EMAIL }}"
+          git config --global user.name "${{ vars.USER_NAME }}"
+          git add -A
+          git commit -m "chore: fetch latest posts from tduyng.com" || exit 0
+          git push
+
