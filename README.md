@@ -42,6 +42,7 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ### 🌐 Latest blog posts
 
 <!-- blog start -->
+
 [[Note] The fastest way to rewrite Git history](https://tduyng.com/notes/git-filter-repo/) - 2025-02-06
 
 [[Note] You don't need husky](https://tduyng.com/notes/husky-alternative/) - 2025-02-05
@@ -51,15 +52,32 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 [[Note] Display colors in Makefile](https://tduyng.com/notes/display-colors-makefile/) - 2025-01-23
 
 [[Note] Display all Makefile commands](https://tduyng.com/notes/make-display-helper/) - 2025-01-22
+
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
 
 ---
 
-### 👀 Let's Connect
+### 👀 Socials
 
-📧 [Email](mailto:hi@tduyng.com) | ⓧ [X](https://x.com/tduyng) | 📝 [Blog](https://tduyng.com) | 🦋 [Bluesky](https://bsky.app/profile/tduyng.bsky.social)
+<p align="left">
+  <a href="mailto:hi@tduyng.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tduyng.com">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=rss&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@tduyng">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://bsky.app/profile/tduyng.bsky.social">
+    <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/tduyng">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 <!-- ### 📊 Stats -->
 
