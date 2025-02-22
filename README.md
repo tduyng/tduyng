@@ -32,6 +32,7 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
     <img alt="Neovim" title="Neovim" src="https://img.shields.io/badge/Nvim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
     <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Kubernetes" title="Kubernetes" src="https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img alt="AWS" title="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white"/>
     <img alt="Bash" title="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
