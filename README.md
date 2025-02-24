@@ -43,6 +43,8 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ### 🌐 Latest blog posts
 
 <!-- blog start -->
+[[Note] Different ways to batch update Nodejs dependencies](https://tduyng.com/notes/update-dependencies-nodejs/) - 2025-02-23
+
 [[Note] The fastest way to rewrite Git history](https://tduyng.com/notes/git-filter-repo/) - 2025-02-06
 
 [[Note] You don't need husky](https://tduyng.com/notes/husky-alternative/) - 2025-02-05
@@ -50,8 +52,6 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 [Scripting tools - A Node.js friendly alternative to makefile](https://tduyng.com/blog/scripting-tools/) - 2025-01-29
 
 [[Note] Display colors in Makefile](https://tduyng.com/notes/display-colors-makefile/) - 2025-01-23
-
-[[Note] Display all Makefile commands](https://tduyng.com/notes/make-display-helper/) - 2025-01-22
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
