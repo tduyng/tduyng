@@ -2,7 +2,7 @@
 
 **`Backend Engineer`**
 
-Building efficient and scalable backend systems while automating workflows to simplify tasks. I enjoy working with `TypeScript` and `Go` and sometimes `Rust`. I also love working with `Neovim`, and keeping my `dotfiles` tidy and efficient.
+Building efficient and scalable backend systems while automating workflows to simplify tasks. I enjoy working with `TypeScript`, `Go` and sometimes `Rust`. I also love working with `Neovim`, and keeping my `dotfiles` tidy and efficient.
 
 > "Keep it minimal, make it powerful."
 
