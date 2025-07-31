@@ -7,7 +7,7 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 
 > "Keep it minimal, make it powerful."
 
-📍 Based in France 🇫🇷
+📍 Based in Paris, France 🇫🇷
 
 <p align="left">
   <a href="https://github.com/tduyng?tab=followers">
