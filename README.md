@@ -15,7 +15,7 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
   <a href="https://github.com/tduyng?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tduyng?style=for-the-badge&logo=star&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41"/></a>
   <a href="https://komarev.com/ghpvc/?username=tduyng&color=green&style=for-the-badge">
-      <img alt="view counter" title="Github profile view counter" src="https://komarev.com/ghpvc/?username=tduyng&color=302D41&style=for-the-badge"/></a>
+      <img alt="view counter" title="Github profile view counter" src="https://komarev.com/ghpvc/?username=tduyng&style=for-the-badge&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41"/></a>
 </p>
 
 ---
