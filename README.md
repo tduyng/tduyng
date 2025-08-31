@@ -11,11 +11,11 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 
 <p align="left">
   <a href="https://github.com/tduyng?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tduyng?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tduyng?logo=person-add&label=Follow&style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/></a>
   <a href="https://github.com/tduyng?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tduyng?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tduyng?style=for-the-badge&logo=star&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41"/></a>
   <a href="https://komarev.com/ghpvc/?username=tduyng&color=green&style=for-the-badge">
-      <img alt="view counter" title="Github profile view counter" src="https://komarev.com/ghpvc/?username=tduyng&color=green&style=for-the-badge"/></a>
+      <img alt="view counter" title="Github profile view counter" src="https://komarev.com/ghpvc/?username=tduyng&color=302D41&style=for-the-badge"/></a>
 </p>
 
 ---
