@@ -46,6 +46,8 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
+[Part 2: Setting up neovim 0.12 (the core configuration before plugins)](/blog/neovim-basic-setup/) - 2025-09-04
+
 [Part 1: My Journey from IDEs to Neovim](/blog/my-neovim-story/) - 2025-09-01
 
 [[Note] Different ways to batch update Nodejs dependencies](/notes/update-dependencies-nodejs/) - 2025-02-23
@@ -53,8 +55,6 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 [[Note] The fastest way to rewrite Git history](/notes/git-filter-repo/) - 2025-02-06
 
 [[Note] You don't need husky](/notes/husky-alternative/) - 2025-02-05
-
-[Scripting tools - A Node.js friendly alternative to makefile](/blog/scripting-tools/) - 2025-01-29
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
