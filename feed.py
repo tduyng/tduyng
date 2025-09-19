@@ -12,7 +12,13 @@ DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 root = pathlib.Path(__file__).parent.resolve()
 
 
-def fetch_feed(url: str) -> list[dict[str, str]]:
+def normalize_url(url: str, base_url: str) -> str:
+    if url.startswith(('http://', 'https://')):
+        return url
+    path = url.lstrip('/')
+    return f"{base_url.rstrip('/')}/{path}"
+
+def fetch_feed(url: str, base_url: str = "https://tduyng.com") -> list[dict[str, str]]:
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -30,7 +36,7 @@ def fetch_feed(url: str) -> list[dict[str, str]]:
     return [
         {
             "title": entry.title,
-            "url": entry.link,
+            "url": normalize_url(entry.link, base_url),
             "date": format_entry_date(entry),
         }
         for entry in feed.entries[:DEFAULT_N]
@@ -64,8 +70,9 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 if __name__ == "__main__":
     readme = root / "README.md"
-    url = "https://tduyng.com/atom.xml"
-    feeds = fetch_feed(url)
+    feed_url = "https://tduyng.com/atom.xml"
+    base_url = "https://tduyng.com"
+    feeds = fetch_feed(feed_url, base_url)
     feeds_md = "\n\n".join([format_feed_entry(feed) for feed in feeds])
     readme_contents = readme.read_text()
     rewritten = replace_chunk(readme_contents, "blog", feeds_md)
