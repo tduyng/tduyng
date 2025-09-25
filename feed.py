@@ -6,7 +6,7 @@ import requests
 import re
 from datetime import datetime
 
-DEFAULT_N = 5
+DEFAULT_N = 8
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 
 root = pathlib.Path(__file__).parent.resolve()
