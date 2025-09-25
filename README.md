@@ -46,6 +46,12 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
+[[Note] managing everything with nix-darwin + home manager](https://tduyng.com/notes/nix-again/) - 2025-09-26
+
+[[Note] make your shell magical with Atuin](https://tduyng.com/notes/atuin/) - 2025-09-25
+
+[[Note] everyone should use zoxide](https://tduyng.com/notes/zoxide/) - 2025-09-20
+
 [Part 2: Setting up neovim 0.12 (the core configuration before plugins)](https://tduyng.com/blog/neovim-basic-setup/) - 2025-09-04
 
 [Part 1: My Journey from IDEs to Neovim](https://tduyng.com/blog/my-neovim-story/) - 2025-09-01
