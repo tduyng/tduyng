@@ -46,7 +46,7 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
-[Why I built my own static site generator](https://tduyng.com/blog/gozzi/) - 2025-11-25
+[Why I built my own static site generator](https://tduyng.com/blog/why-i-built-my-own-static-site-generator/) - 2025-11-25
 
 [[Gozzi] Native mermaid support](https://tduyng.com/notes/mermaid-support/) - 2025-11-23
 
