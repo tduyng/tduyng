@@ -46,21 +46,21 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
-[Why I built my own static site generator](https://tduyng.com/blog/why-i-built-my-own-static-site-generator/) - 2025-11-25
+[My Vim setup in VSCode](https://tduyng.com/blog/vim-in-vscode/) - 2025-12-05
+
+[Part 8: Neovim git integration](https://tduyng.com/blog/neovim-git-tools/) - 2025-12-02
+
+[Part 7: Neovim formatter with conform.nvim](https://tduyng.com/blog/neovim-formatter-conform/) - 2025-11-29
+
+[Part 6: Neovim auto-completion with blink.cmp](https://tduyng.com/blog/neovim-auto-completions/) - 2025-11-28
+
+[Part 5: Neovim syntax highlighting with Tree-sitter](https://tduyng.com/blog/neovim-highlight-syntax/) - 2025-11-26
+
+[Why Justfile became my favorite task runner](https://tduyng.com/blog/justfile-my-favorite-task-runner/) - 2025-11-24
 
 [[Gozzi] Native mermaid support](https://tduyng.com/notes/mermaid-support/) - 2025-11-23
 
-[[Gozzi] Native KaTeX support](https://tduyng.com/notes/katex-support/) - 2025-11-22
-
-[Part 4: Managing snacks.nvim with native vim.pack](https://tduyng.com/blog/vim-pack-and-snacks/) - 2025-10-28
-
-[Part 3: Setting up Neovim native lsp](https://tduyng.com/blog/neovim-lsp-native/) - 2025-10-06
-
-[[Note] managing everything with nix-darwin + home manager](https://tduyng.com/notes/nix-again/) - 2025-09-26
-
-[[Note] make your shell magical with Atuin](https://tduyng.com/notes/atuin/) - 2025-09-25
-
-[[Note] everyone should use zoxide](https://tduyng.com/notes/zoxide/) - 2025-09-20
+[Why I built my own static site generator](https://tduyng.com/blog/why-i-built-my-own-static-site-generator/) - 2025-11-22
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
