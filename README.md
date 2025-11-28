@@ -14,8 +14,8 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tduyng?logo=person-add&label=Follow&style=for-the-badge&color=C9CBFF&labelColor=302D41&logoColor=D9E0EE"/></a>
   <a href="https://github.com/tduyng?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tduyng?style=for-the-badge&logo=star&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41"/></a>
-  <a href="https://komarev.com/ghpvc/?username=tduyng&color=green&style=for-the-badge">
-      <img alt="view counter" title="Github profile view counter" src="https://komarev.com/ghpvc/?username=tduyng&style=for-the-badge&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41"/></a>
+  <a href="https://github-view-counter.tienduy-nguyen-dev.workers.dev/?username=tduyng&style=for-the-badge&color=DDB6F2&labelColor=302D41&label=profile%20views">
+      <img alt="view counter" title="Github view counter" src="https://github-view-counter.tienduy-nguyen-dev.workers.dev/?username=tduyng&style=for-the-badge&color=DDB6F2&labelColor=302D41&label=profile%20views"/></a>
 </p>
 
 ---
@@ -46,6 +46,7 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
+
 [My Vim setup in VSCode](https://tduyng.com/blog/vim-in-vscode/) - 2025-12-05
 
 [Part 8: Neovim git integration](https://tduyng.com/blog/neovim-git-tools/) - 2025-12-02
@@ -61,6 +62,7 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 [[Gozzi] Native mermaid support](https://tduyng.com/notes/mermaid-support/) - 2025-11-23
 
 [Why I built my own static site generator](https://tduyng.com/blog/why-i-built-my-own-static-site-generator/) - 2025-11-22
+
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
