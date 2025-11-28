@@ -46,7 +46,6 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
-
 [My Vim setup in VSCode](https://tduyng.com/blog/vim-in-vscode/) - 2025-12-05
 
 [Part 8: Neovim git integration](https://tduyng.com/blog/neovim-git-tools/) - 2025-12-02
@@ -62,7 +61,6 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 [[Gozzi] Native mermaid support](https://tduyng.com/notes/mermaid-support/) - 2025-11-23
 
 [Why I built my own static site generator](https://tduyng.com/blog/why-i-built-my-own-static-site-generator/) - 2025-11-22
-
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
