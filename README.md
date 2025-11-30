@@ -56,7 +56,7 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 
 [Part 5: Neovim syntax highlighting with Tree-sitter](https://tduyng.com/blog/neovim-highlight-syntax/) - 2025-11-26
 
-[Why Justfile became my favorite task runner](https://tduyng.com/blog/justfile-my-favorite-task-runner/) - 2025-11-24
+[Justfile became my favorite task runner](https://tduyng.com/blog/justfile-my-favorite-task-runner/) - 2025-11-24
 
 [[Gozzi] Native mermaid support](https://tduyng.com/notes/mermaid-support/) - 2025-11-23
 
