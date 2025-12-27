@@ -46,19 +46,19 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
-[Part 10: Neovim enhanced editing experience](https://tduyng.com/blog/neovim-enhance-editing-experiences/) - 2025-12-22
+[Neovim enhanced editing experience](https://tduyng.com/blog/neovim-enhance-editing-experiences/) - 2025-12-22
 
-[Part 9: Neovim debugging for Node.js/TypeScript](https://tduyng.com/blog/neovim-setup-debug-nodejs/) - 2025-12-21
+[Neovim debugging for Node.js/TypeScript](https://tduyng.com/blog/neovim-setup-debug-nodejs/) - 2025-12-21
 
 [My Vim setup in VSCode](https://tduyng.com/blog/vim-in-vscode/) - 2025-12-05
 
-[Part 8: Neovim git integration](https://tduyng.com/blog/neovim-git-tools/) - 2025-12-02
+[Neovim git integration](https://tduyng.com/blog/neovim-git-tools/) - 2025-12-02
 
-[Part 7: Neovim formatter with conform.nvim](https://tduyng.com/blog/neovim-formatter-conform/) - 2025-11-29
+[Neovim formatter with conform.nvim](https://tduyng.com/blog/neovim-formatter-conform/) - 2025-11-29
 
-[Part 6: Neovim auto-completion with blink.cmp](https://tduyng.com/blog/neovim-auto-completions/) - 2025-11-28
+[Neovim auto-completion with blink.cmp](https://tduyng.com/blog/neovim-auto-completions/) - 2025-11-28
 
-[Part 5: Neovim syntax highlighting with Tree-sitter](https://tduyng.com/blog/neovim-highlight-syntax/) - 2025-11-26
+[Neovim syntax highlighting with Tree-sitter](https://tduyng.com/blog/neovim-highlight-syntax/) - 2025-11-26
 
 [Justfile became my favorite task runner](https://tduyng.com/blog/justfile-my-favorite-task-runner/) - 2025-11-24
 <!-- blog end -->
