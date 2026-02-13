@@ -46,6 +46,14 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
+[Simple Neovim Statusline](https://tduyng.com/blog/neovim-statusline-native/) - 2026-02-12
+
+[Simple Neovim Tab Management](https://tduyng.com/blog/neovim-tabline-native/) - 2026-02-10
+
+[Simple Neovim Session Management VSCode style](https://tduyng.com/blog/neovim-session-management/) - 2026-02-08
+
+[[Notes] Vim tricks](https://tduyng.com/notes/vim-tricks/) - 2026-01-05
+
 [Neovim enhanced editing experience](https://tduyng.com/blog/neovim-enhance-editing-experiences/) - 2025-12-22
 
 [Neovim debugging for Node.js/TypeScript](https://tduyng.com/blog/neovim-setup-debug-nodejs/) - 2025-12-21
@@ -53,14 +61,6 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 [My Vim setup in VSCode](https://tduyng.com/blog/vim-in-vscode/) - 2025-12-05
 
 [Neovim git integration](https://tduyng.com/blog/neovim-git-tools/) - 2025-12-02
-
-[Neovim formatter with conform.nvim](https://tduyng.com/blog/neovim-formatter-conform/) - 2025-11-29
-
-[Neovim auto-completion with blink.cmp](https://tduyng.com/blog/neovim-auto-completions/) - 2025-11-28
-
-[Neovim syntax highlighting with Tree-sitter](https://tduyng.com/blog/neovim-highlight-syntax/) - 2025-11-26
-
-[Justfile became my favorite task runner](https://tduyng.com/blog/justfile-my-favorite-task-runner/) - 2025-11-24
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
