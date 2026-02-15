@@ -46,6 +46,8 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
+[The Rise of Terminal Tools](https://tduyng.com/blog/rise-of-terminal/) - 2026-02-14
+
 [Simple Neovim Statusline](https://tduyng.com/blog/neovim-statusline-native/) - 2026-02-12
 
 [Simple Neovim Tab Management](https://tduyng.com/blog/neovim-tabline-native/) - 2026-02-10
@@ -59,8 +61,6 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 [Neovim debugging for Node.js/TypeScript](https://tduyng.com/blog/neovim-setup-debug-nodejs/) - 2025-12-21
 
 [My Vim setup in VSCode](https://tduyng.com/blog/vim-in-vscode/) - 2025-12-05
-
-[Neovim git integration](https://tduyng.com/blog/neovim-git-tools/) - 2025-12-02
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
