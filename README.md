@@ -46,7 +46,7 @@ tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
-[My Note taking Setup in Neovim](https://tduyng.com/blog/neovim-markdown-notes/) - 2026-02-15
+[My Note Taking Setup in Neovim](https://tduyng.com/blog/neovim-markdown-notes/) - 2026-02-15
 
 [The Rise of Terminal Tools](https://tduyng.com/blog/rise-of-terminal/) - 2026-02-14
 
