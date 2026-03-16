@@ -2,8 +2,9 @@
 
 **`Backend Engineer`**
 
-Building efficient, scalable backend systems and automating workflows to keep life simple. I enjoy working with `TypeScript`, and `Go`,
-tweak `Neovim` to perfection, and keep my `dotfiles` neat and efficient.
+I spend my time building backend systems, tweaking my Neovim setup, and making open source tools work for me.
+Every day I try to learn something new, a better way to solve problems, a new tool, or just something interesting I stumbled upon.
+I read a lot, work on open source, and write about what I learn.
 
 > "Keep it minimal, make it powerful."
 
