@@ -57,7 +57,7 @@ I read a lot, work on open source, and write about what I learn.
 
 [Simple Neovim Session Management VSCode style](https://tduyng.com/blog/neovim-session-management/) - 2026-02-08
 
-[[Notes] Vim tricks](https://tduyng.com/notes/vim-tricks/) - 2026-01-05
+[[Notes] Vim tips](https://tduyng.com/notes/vim-tips/) - 2026-01-05
 
 [Neovim enhanced editing experience](https://tduyng.com/blog/neovim-enhance-editing-experiences/) - 2025-12-22
 
