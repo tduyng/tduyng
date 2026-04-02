@@ -1,5 +1,8 @@
 # ⛷ DUY NG
 
+**🚚 I have moved away from GitHub for personal projects.  
+You can now find me on GitLab → [tduyng](https://gitlab.com/tduyng)**
+
 **`Backend Engineer`**
 
 I spend my time building backend systems, tweaking my Neovim setup, and making open source tools work for me.
@@ -47,6 +50,7 @@ I read a lot, work on open source, and write about what I learn.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
+
 [My Note Taking Setup in Neovim](https://tduyng.com/blog/neovim-markdown-notes/) - 2026-02-15
 
 [The Rise of Terminal Tools](https://tduyng.com/blog/rise-of-terminal/) - 2026-02-14
@@ -62,6 +66,7 @@ I read a lot, work on open source, and write about what I learn.
 [Neovim enhanced editing experience](https://tduyng.com/blog/neovim-enhance-editing-experiences/) - 2025-12-22
 
 [Neovim debugging for Node.js/TypeScript](https://tduyng.com/blog/neovim-setup-debug-nodejs/) - 2025-12-21
+
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
