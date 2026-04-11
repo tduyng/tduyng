@@ -50,21 +50,21 @@ I read a lot, work on open source, and write about what I learn.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
-[My Note Taking Setup in Neovim](https://tduyng.com/blog/neovim-markdown-notes/) - 2026-02-14
+[Dropping noice.nvim for Neovim's native UI2](https://tduyng.com/blog/neovim-drop-noice-ui2/) - 2026-04-10
 
-[The Rise of Terminal Tools](https://tduyng.com/blog/rise-of-terminal/) - 2026-02-13
+[Codeme.nvim private coding activity tracking in Neovim](https://tduyng.com/blog/codeme-private-coding-tracker-neovim/) - 2026-04-02
 
-[Simple Neovim Statusline](https://tduyng.com/blog/neovim-statusline-native/) - 2026-02-11
+[My Note Taking Setup in Neovim](https://tduyng.com/blog/neovim-markdown-notes/) - 2026-02-15
 
-[Simple Neovim Tab Management](https://tduyng.com/blog/neovim-tabline-native/) - 2026-02-09
+[The Rise of Terminal Tools](https://tduyng.com/blog/rise-of-terminal/) - 2026-02-14
 
-[Simple Neovim Session Management VSCode style](https://tduyng.com/blog/neovim-session-management/) - 2026-02-07
+[Simple Neovim Statusline](https://tduyng.com/blog/neovim-statusline-native/) - 2026-02-12
 
-[[Notes] Vim tips](https://tduyng.com/notes/vim-tips/) - 2026-01-04
+[Simple Neovim Tab Management](https://tduyng.com/blog/neovim-tabline-native/) - 2026-02-10
 
-[Neovim enhanced editing experience](https://tduyng.com/blog/neovim-enhance-editing-experiences/) - 2025-12-21
+[Simple Neovim Session Management VSCode style](https://tduyng.com/blog/neovim-session-management/) - 2026-02-08
 
-[Neovim debugging for Node.js/TypeScript](https://tduyng.com/blog/neovim-setup-debug-nodejs/) - 2025-12-20
+[[Notes] Vim tips](https://tduyng.com/notes/vim-tips/) - 2026-01-05
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
