@@ -50,7 +50,13 @@ I read a lot, work on open source, and write about what I learn.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
+[[Notes] Vim marks the hidden superpower](https://tduyng.com/notes/vim-marks/) - 2026-04-16
+
+[[Notes] Vim buffers, windows, and tabs](https://tduyng.com/notes/vim-buffer-window-tab/) - 2026-04-11
+
 [Dropping noice.nvim for Neovim's native UI2](https://tduyng.com/blog/neovim-drop-noice-ui2/) - 2026-04-10
+
+[[Notes] Vim search with Ripgrep](https://tduyng.com/notes/vim-search-regex-ripgrep/) - 2026-04-08
 
 [Codeme.nvim private coding activity tracking in Neovim](https://tduyng.com/blog/codeme-private-coding-tracker-neovim/) - 2026-04-02
 
@@ -59,12 +65,6 @@ I read a lot, work on open source, and write about what I learn.
 [The Rise of Terminal Tools](https://tduyng.com/blog/rise-of-terminal/) - 2026-02-14
 
 [Simple Neovim Statusline](https://tduyng.com/blog/neovim-statusline-native/) - 2026-02-12
-
-[Simple Neovim Tab Management](https://tduyng.com/blog/neovim-tabline-native/) - 2026-02-10
-
-[Simple Neovim Session Management VSCode style](https://tduyng.com/blog/neovim-session-management/) - 2026-02-08
-
-[[Notes] Vim tips](https://tduyng.com/notes/vim-tips/) - 2026-01-05
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
