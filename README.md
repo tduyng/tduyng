@@ -50,6 +50,8 @@ I read a lot, work on open source, and write about what I learn.
 ## 🌐 Latest blog posts
 
 <!-- blog start -->
+[Simple Neovim autopairs](https://tduyng.com/blog/neovim-custom-pairs/) - 2026-06-11
+
 [[Notes] Vim marks the hidden superpower](https://tduyng.com/notes/vim-marks/) - 2026-04-16
 
 [[Notes] Vim buffers, windows, and tabs](https://tduyng.com/notes/vim-buffer-window-tab/) - 2026-04-11
@@ -63,8 +65,6 @@ I read a lot, work on open source, and write about what I learn.
 [My Note Taking Setup in Neovim](https://tduyng.com/blog/neovim-markdown-notes/) - 2026-02-15
 
 [The Rise of Terminal Tools](https://tduyng.com/blog/rise-of-terminal/) - 2026-02-14
-
-[Simple Neovim Statusline](https://tduyng.com/blog/neovim-statusline-native/) - 2026-02-12
 <!-- blog end -->
 
 📖 Read more on [tduyng.com](https://tduyng.com)
